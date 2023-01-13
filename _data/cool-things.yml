@@ -2,9 +2,14 @@
   links:
     - title: Alex doing stuff
       url: https://adnathanail.dev
+      comment: my friend alex's site!
 
 
 - category: other
   links:
     - title: test
       url: https://google.com
+      comment: just a link to google, nothing crazy
+    - title: Substi-fruit
+      url: https://comfy-custard-c39caa.netlify.app
+      comment: which fruit substitutes do the masses find acceptable?
