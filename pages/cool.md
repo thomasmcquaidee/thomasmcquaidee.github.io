@@ -14,7 +14,8 @@ here's a list of some stuff i think is cool!
 <h2>{{ item.category }}</h2>
 <ul style="list-style: none">
 {% for link in item.links %}
-<li><a href="{{ link.url }}">{% include icons/link.html %} {{ link.title }}</a> <br>   {{ link.comment }} <br></li>
+<li><a href="{{ link.url }}">{% include icons/link.html %} {{ link.title }}</a></li>
+<li>{{ link.comment }}</li>
 {% endfor %}
 </ul>
 {% endfor %}
