@@ -2,7 +2,6 @@
 layout: page
 title: about
 permalink: /
-image: /assets/about/profile.jpg
 ---
 
 <h1><small>about</small></h1>
@@ -10,8 +9,6 @@ image: /assets/about/profile.jpg
 ---
 
 hi! i'm thomas mcquaid, an audio engineer and music producer based in london. i've decided that i wanted to create more things as part of my new years resolution for 2023, so up first is this little website!
-
-i really love the style and vibe of personal websites, this ones actually mostly stolen from [pixyzehn's](https://pixyzehn.com) site. i'll slowly go through and make this my own, but until then, there's almost definitely going to be some remnants of that site over here.
 
 my professional site can be found at [thomasmcquaid.com](https://thomasmcquaid.com). it's a little bit more modern than here.
 
