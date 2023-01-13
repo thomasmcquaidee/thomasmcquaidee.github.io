@@ -1,0 +1,47 @@
+title: tmcq
+author: tmcq
+description: Just another jekyll website
+url: https://tmcq.io
+timezone: Europe/London
+
+links:
+  github: https://github.com/thomasmcquaidee
+  linkedin: https://www.linkedin.com/in/thomasmcquaid
+  instagram: https://www.instagram.com/thomasmcquaidee
+  jekyll: https://jekyllrb.com
+
+collections:
+  posts:
+    output: true
+    permalink: /articles/:title
+
+paginate: 8
+paginate_path: /articles/:num
+
+sass:
+  style: compressed
+strict_front_matter: true
+
+twitter:
+  username: pixyzehn
+  card: summary
+
+plugins:
+- jekyll-feed
+- jekyll-gist
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-sitemap
+- jemoji
+- jekyll-redirect-from
+
+# https://jekyllrb.com/docs/configuration/default/
+exclude:
+- .github
+- .gitignore
+- .jekyll-cache
+- .sass-cache
+- CNAME
+- LICENSE
+- README.md
