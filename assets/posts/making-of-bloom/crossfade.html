@@ -1,0 +1,78 @@
+<html>
+    <body>
+        <script src="howler.core.js"></script>
+
+        <button onclick="playAudio()">Play Audio</button>
+
+        <button onclick="solo1()">Mix 1</button>
+        <button onclick="solo2()">Mix 2</button>
+        <button onclick="solo3()">Mix 3</button>
+        <button onclick="solo4()">Mix 4</button>
+
+        <script>
+            var slider = document.getElementById("crossfader");
+            var output = document.getElementById("op");
+
+            var audio1 = new Howl({
+                src: ["crossfadeTracks/bloomMix1.wav"]
+            });
+
+            var audio2 = new Howl({
+                src: ["crossfadeTracks/bloomMix2.wav"]
+            });
+
+            var audio3 = new Howl({
+                src: ["crossfadeTracks/bloomMix3.wav"]
+            });
+
+            var audio4 = new Howl({
+                src: ["crossfadeTracks/bloomMix4.wav"]
+            });
+
+
+            function playAudio(){
+                audio1.play();
+                audio2.play();
+                audio3.play();
+                audio4.play();
+
+                audio1.mute(false);
+                audio2.mute(true);
+                audio3.mute(true);
+                audio4.mute(true);
+            };
+
+            function solo1(){
+                audio1.mute(false);
+                audio2.mute(true);
+                audio3.mute(true);
+                audio4.mute(true);
+            };
+
+            function solo2(){
+                audio1.mute(true);
+                audio2.mute(false);
+                audio3.mute(true);
+                audio4.mute(true);
+            };
+
+            function solo3(){
+                audio1.mute(true);
+                audio2.mute(true);
+                audio3.mute(false);
+                audio4.mute(true);
+            };
+
+            function solo4(){
+                audio1.mute(true);
+                audio2.mute(true);
+                audio3.mute(true);
+                audio4.mute(false);
+            };
+
+
+        </script>
+
+
+    </body>
+</html>
