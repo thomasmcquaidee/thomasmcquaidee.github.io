@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/articles/hello-world</loc>
+<lastmod>2023-01-13T02:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles/the-making-of-bloom</loc>
+<lastmod>2023-01-24T21:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/archives/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/contact/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/cool/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/articles/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/posts/making-of-bloom/crossfade.html</loc>
+<lastmod>2023-01-24T21:03:18+00:00</lastmod>
+</url>
+</urlset>
