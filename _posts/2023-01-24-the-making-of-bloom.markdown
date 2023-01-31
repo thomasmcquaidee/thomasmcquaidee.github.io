@@ -9,27 +9,27 @@ if you haven’t listened already, go check out my bands debut single, bloom! in
 
 here’s one of the first recordings i could find of bloom, the classic voice notes demo!
 
-<audio src="../assets/posts/making-of-bloom/1.wav"></audio>
+../assets/posts/making-of-bloom/1.wav
 <p class="text-muted text-center"><i><small>there's some parts of this that we didn't end up using in the final track, but are still super cool. maybe in a future song we can dig those bits up again</small></i></p>
 
 we then worked on some drums and structure bits to try and work out where we wanted verses and choruses, and recorded some scratch tracks
 
-<audio src="../assets/posts/making-of-bloom/2.mp3"></audio>
+../../assets/posts/making-of-bloom/2.mp3
 <p class="text-muted text-center"><i><small>insanely overcompressed, but i've always found i make demoes sound worse on purpose so i don't get too attached to them</small></i></p>
 
 after that we decided we wanted harmonies, so i made a reallyyyy stupid midi version of the song so i could play around till we had something sounding good
 
-<audio src="../assets/posts/making-of-bloom/3.wav"></audio>
+../assets/posts/making-of-bloom/3.wav
 <p class="text-muted text-center"><i><small>banger.....</small></i></p>
 
 once we'd recorded the harmonies we thought we were pretty much done with bloom. the plan was to write a couple more songs until we had an EPs worth of material, then we were going to get into the studio to record everything. coming back to the song after some time off, i really felt that it was too "chuggy", 1/8th notes for a whole 3 minute song were really repetitive! i decided that i was going to try something different, so i brought the whole track into ableton, and laid it over some triplet drums i had written, and hit quantise...
 
-<audio src="../assets/posts/making-of-bloom/4.wav"></audio>
+../assets/posts/making-of-bloom/4.wav
 <p class="text-muted text-center"><i><small>emma, the amazing drummer who plays on the track, wasn't happy recording that intro...</small></i></p>
 
 now it's starting to sound like bloom! this was the version we ended up finalising and bringing into the studio. here's a super rough monitor bounce of the raw drum and guitar tracks
 
-<audio src="../assets/posts/making-of-bloom/5.wav"></audio>
+../assets/posts/making-of-bloom/5.wav
 <p class="text-muted text-center"><i><small>listening back to this really shows how much shaping recorded drums need to sound release ready</small></i></p>
 
 
