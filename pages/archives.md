@@ -4,7 +4,7 @@ title: archives
 permalink: /archives/
 ---
 
-<h1><small>archives</small></h1>
+<h1><small>Archives</small></h1>
 
 {% include archives.html %}
 

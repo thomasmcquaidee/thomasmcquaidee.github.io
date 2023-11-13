@@ -4,11 +4,11 @@ title: about
 permalink: /
 ---
 
-<h1><small>about</small></h1>
+<h1><small>About</small></h1>
 
 ---
 
-hi! i'm thomas mcquaid, an audio engineer and music producer based in london. i've decided that i wanted to create more things as part of my new years resolution for 2023, so up first is this little website!
+Hi! I'm Thomas McQuaid, an audio engineer and music producer based in London. I've decided that I wanted to create more things as part of my new years resolution for 2023, so up first is this little website!
 
 {% include external_links.html %}
 
@@ -16,4 +16,4 @@ hi! i'm thomas mcquaid, an audio engineer and music producer based in london. i'
 <img alt="mont-blanc" src="../assets/about/me.jpg" class="d-block mx-auto rounded" width="95%">
 </div>
 
-<p class="text-muted text-center"><i><small>hello world!</small></i></p>
+<p class="text-muted text-center"><i><small>Hello world!</small></i></p>

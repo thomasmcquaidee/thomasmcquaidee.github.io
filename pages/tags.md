@@ -4,7 +4,7 @@ title: tags
 permalink: /tags/
 ---
 
-<h1><small>tags</small></h1>
+<h1><small>Tags</small></h1>
 
 {% assign tag_names = "" | split: "|"  %}
 {% for posts_by_tag in site.tags %}
