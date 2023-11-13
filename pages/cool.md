@@ -1,12 +1,12 @@
 ---
 layout: page
-title: cool things
-permalink: /cool/
+title: Links
+permalink: /links/
 ---
 
-<h1><small>cool things</small></h1>
+<h1><small>Links</small></h1>
 
-here's a list of some stuff i think is cool!
+Here's a list of articles and websites that I want to read over later, but probably haven't gotten round to yet. Currently I'm filling these in by hand, but want to try and work out a way to automate it, as a bit of a reading list for myself.
 
 ---
 
