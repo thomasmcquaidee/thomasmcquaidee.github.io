@@ -3,10 +3,10 @@ layout: page
 title: Links
 permalink: /links/
 ---
+<h1>Links</h1>
+---
 
-<h1><small>Links</small></h1>
-
-Here's a list of articles and websites that I want to read over later, but probably haven't gotten round to yet. Currently I'm filling these in by hand, but want to try and work out a way to automate it, as a bit of a reading list for myself.
+links n cool stuff
 
 ---
 

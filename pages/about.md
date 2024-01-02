@@ -3,9 +3,7 @@ layout: page
 title: About
 permalink: /
 ---
-
-<h1><small>About</small></h1>
-
+<h1>About</h1>
 ---
 
 Hi! I'm Thomas McQuaid, an audio engineer and music producer based in London. I've decided that I wanted to create more things as part of my new years resolution for 2023, so up first is this little website!

@@ -1,9 +1,9 @@
-- category: Things to read later
+- category: Category name
   links:
-    - title: Johnny Decimal
-      url: https://johnnydecimal.com/
-      comment: Interesting looking organisation system
+    - title: google
+      url: https://google.com/
+      comment: google
 
-    - title: The Digital Garden
-      url: https://maggieappleton.com/garden-history
-      comment: aaa
+    - title: also google
+      url: https://google.com/
+      comment: gogle
