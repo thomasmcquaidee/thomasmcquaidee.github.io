@@ -13,9 +13,9 @@ I also properly began my career in the music industry! Whilst I've *technically*
 
 I also got cats! This was a bigger deal for me than I think I realised, I'd always wanted pets growing up, but all I managed to convince my parents to get me was a goldfish, so when I had the realisation that I had steady income, my girlfriend also wanted cats, and we were allowed them at the flat, we ended up finding the best two guys in the world, Mochi and Kiwi!
 
-![Mochi](../assets/posts/mochi.jpeg)
+![Mochi](../assets/posts/jan-24/mochi.jpeg)
 
-![Kiwi](../assets/posts/kiwi.jpeg)
+![Kiwi](../assets/posts/jan-24/kiwi.jpeg)
 
 I've been thinking a lot about what I want to get out of 2024. I've never been great at new year's resolutions, so instead I've come up with some general goals that I want to work towards.
 
