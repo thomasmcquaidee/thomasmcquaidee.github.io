@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 Portfolio goes here.
 
-<img alt="aerie - seven" src="../assets/portfolio/aerie - seven.jpg" class="d-block mx-auto rounded" width="40%">
+<img alt="aerie - seven" src="../assets/portfolio/aerie - seven.jpg" class="d-block mx-auto rounded" width="40%" align="left">
 
 <img alt="Allison Russell - The Returner" src="../assets/portfolio/Allison Russell - The Returner.jpg" class="d-block mx-auto rounded" width="40%">
 
@@ -18,5 +18,3 @@ Portfolio goes here.
 
 
 <img alt="aerie - seven" src="../assets/portfolio/aerie - seven.jpg" class="d-block mx-auto rounded" width="40%">
-
-![aerie - seven](../assets/portfolio/aerie - seven.jpg){:."d-block mx-auto rounded"}
