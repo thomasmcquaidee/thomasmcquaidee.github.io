@@ -9,4 +9,4 @@ permalink: /portfolio/
 Portfolio goes here.
 
 
-<img alt="me" src="../assets/portfolio/aerie - seven.jpg" class="d-block mx-auto rounded" width="25%">
+<img alt="me" src="../assets/portfolio/aerie - seven.jpg" class="d-block mx-auto rounded" width="40%">
