@@ -15,3 +15,8 @@ Portfolio goes here.
 <img alt="Metronomy - Love Letters" src="../assets/portfolio/Metronomy - Love Letters.jpg" class="d-block mx-auto rounded" width="40%">
 
 <img alt="The Chemical Brothers - For That Beautiful Feeling" src="../assets/portfolio/The Chemical Brothers - For That Beautiful Feeling.jpg" class="d-block mx-auto rounded" width="40%">
+
+
+<img alt="aerie - seven" src="../assets/portfolio/aerie - seven.jpg" class="d-block mx-auto rounded" width="40%">
+
+![aerie - seven](../assets/portfolio/aerie - seven.jpg){:."d-block mx-auto rounded"}
