@@ -7,6 +7,9 @@ permalink: /portfolio/
 ---
 
 <img alt="aerie - seven" src="../assets/portfolio/aerie - seven.jpg" class="d-block mx-auto rounded" width="30%" style="float: left"|> 
+artist - track title
+Released 1st January 2024 on Record Label
+Recorded / Engineered / Mixed / Assisted by Thomas McQuaid
 
 <img alt="The Chemical Brothers - For That Beautiful Feeling" src="../assets/portfolio/The Chemical Brothers - For That Beautiful Feeling.jpg" class="d-block mx-auto rounded" width="30%" style="float: left"|>
 
