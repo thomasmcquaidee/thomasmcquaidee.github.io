@@ -1,0 +1,16 @@
+# Jekyll
+_site
+*-cache/
+.jekyll-metadata
+
+# Ruby
+.bundle/
+
+# Files
+.DS_Store
+*.swp
+*~
+
+# Folders
+/vendor
+
