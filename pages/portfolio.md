@@ -21,7 +21,7 @@ Here's a selection of projects I've been involved in:
 
 Released by {{ item.label }} on {{ item.date }}
 
-<li><a href="{{ item.url }}">{% include icons/link.html %} Listen to <i>{{ item.name }}</i> on Apple Music</a></li>
+<li><a href="{{ item.url }}">{% include icons/link.html %} Listen to <i>{{ item.name }}</i></a></li>
 
 <p class="text-muted"><i>{{ item.notes }}</i></p>
 </ul>
