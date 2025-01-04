@@ -1,5 +1,30 @@
-# thomasmcquaidee.github.io
+# [tmcq.io](https://tmcq.io)
 
-Hello! I'm Thomas, an audio engineer based in London, UK. I do everything from music production, stereo and immersive mixing/mastering, live sound engineering and event production work, and sound design and mixing for film.
+My personal website, built with Jekyll
 
-This is my personal website, to host my portfolio, blog, and any other projects I'm working on.
+## Requirements
+
+- [Bundler](https://bundler.io)
+- [Jekyll](https://jekyllrb.com)
+
+## Installation
+
+```bash
+bundle install
+```
+
+## Build
+
+```bash
+bundle exec jekyll build
+```
+
+## Preview
+
+```bash
+bundle exec jekyll serve
+```
+
+## License
+
+Code is open sourced under the [MIT license](LICENSE).

@@ -1,0 +1,43 @@
+title: tmcq.io
+description: Just another jekyll website
+url: https://tmcq.io
+timezone: Europe/London
+
+links:
+  mastodon: https://mastodon.me.uk/@tmcq
+  bluesky: https://bsky.app/profile/tmcq.io
+  linkedin: https://www.linkedin.com/in/thomasmcquaid
+  email: test@test.test
+  jekyll: https://jekyllrb.com
+
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title
+
+paginate: 8
+paginate_path: /blog/:num
+
+sass:
+  style: compressed
+strict_front_matter: true
+
+plugins:
+- jekyll-feed
+- jekyll-gist
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-sitemap
+- jemoji
+- jekyll-redirect-from
+
+# https://jekyllrb.com/docs/configuration/default/
+exclude:
+- .github
+- .gitignore
+- .jekyll-cache
+- .sass-cache
+- CNAME
+- LICENSE
+- README.md
