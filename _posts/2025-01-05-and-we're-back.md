@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog Updates - 2025
-date: 2025-01-04 0:00:00 +0000
+title: ...and we're back!
+date: 2025-01-05 08:53:00 +0000
 tags: tech
 ---
 
