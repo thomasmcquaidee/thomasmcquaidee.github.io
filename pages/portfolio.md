@@ -10,7 +10,6 @@ Here's a selection of projects I've been involved in:
 
 {% for item in site.data.portfolio %}
 <hr>
-
 <h3>{{ item.name }}</h3>
 
 <img src="../assets/portfolio/{{ item.name }}.jpg" class="rounded" alt="Album cover art for {{ item.name }}" height="250px" width="250px">
