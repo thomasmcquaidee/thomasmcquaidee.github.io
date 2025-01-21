@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Listening to more albums
-date: 2025-01-21 02:23:00 +0000
+title: Up-and-Coming Audio Engineers Panel @ UWL
+date: 2025-01-21 03:26:00 +0000
 tags: 
   - music
 ---
