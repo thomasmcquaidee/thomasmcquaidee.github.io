@@ -15,3 +15,5 @@ This was also my first time hosting an event like this. Public speaking has neve
 <div>
     <img src="../assets/posts/engineerpanel.jpg" class="rounded" alt="A person hosting a panel, speaking into a microphone.">
 </div>
+
+<p class="text-muted"><i>Pretending like I know what I'm on about - fake it till you make it!</i></p>
