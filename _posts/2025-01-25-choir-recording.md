@@ -38,10 +38,20 @@ Once we'd tracked piano, we quickly moved it out of the way to make space for th
 
 Monitoring was going to be an issue though. Whilst we could've used headphones, these singers hadn't been in a studio before, so I was concerned that headphones would be too isolating and throw them off. I also didn't love the idea of speakers, as the bleed would've been an issue too. The compromise I came up with was using wedge monitors, so there was bleed in our recordings, but I also asked the performers to do a "quiet take", basically letting the track play out whilst they stood in silence, so I could invert the phase and try and null the backing track. I wanted the choir to stay stood as there was so many of them, I thought it would effect the room's acoustics. 
 
-This worked extremely well, leaving me with very usable recordings of the choir!
+This worked extremely well, leaving me with very usable, fairly clean recordings of the choir. I think I'll do some additional cleanup with RX, but the less I have to rely on cleanup tools, the better, as I find they can be a little phase-y and weird sometimes.
 
 <div>
     <img src="../assets/posts/choir-recording/choir.jpeg" class="rounded" alt="A choir stood in front of wedge monitors and microphoens. ">
 </div>
 
 <p class="text-muted"><i>You can see the wedge monitors on the floor in front of the group. They didn't sound great, but worked well enough for this.</i></p>
+
+After tracking the main choir, we moved on to soloists. I didn't want to close mic them, to keep everything else consistent, so rather than have a super wide stereo image for their parts (as some of them were literally on opposite ends of the choir) we tracked them seperate, so we could move them physically closer together, and thus have a narrower stereo image for their sections. This also allowed us to turn the monitors down a fair bit, which means less bleed, and the phase-flip-quiet-take trick work even better!
+
+I've yet to mix the session yet, I'm waiting to get into one of our Atmos rooms as I'm trying to avoid creating a stereo mix that I'll "upmix" into Atmos, I'd much prefer to create a stereo mix from the 2.0 folddown. I learnt a lot from this session, it was super fun to spend some proper time on our Neve Custom 75 desk at Vestry, I think it sounds great, the preamps are fantastic, and I quite like the central monitoring section. I find I need to fader-swap every channel for it to make sense to me, but other than that it's super nice to work on.
+
+<div>
+    <img src="../assets/posts/choir-recording/controlroom.jpeg" class="rounded" alt="A Neve Custom 75 mixing console, NS10 speakers and Pro Tools running in the background. A TV screen mounted above the console shows a video feed of a pianist.">
+</div>
+
+<p class="text-muted"><i>I'm not a fan of NS10s, but the acoustics in this studio really aren't great, so I found myself using them more than the soffit-mounted ATCs in the room, as I trusted their stereo image more than the mains.</i></p>
