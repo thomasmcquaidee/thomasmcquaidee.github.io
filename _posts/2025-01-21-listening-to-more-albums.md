@@ -16,3 +16,7 @@ I've been making an effort to listen to more albums as full, cohesive bodies of 
 - Mac Miller - Balloonerism
 - Ethel Cain - Perverts
 - Jerod S. Rivera - Virgo
+- aerie - the juniper archives
+
+**February**
+- Hiatus Kaiyote - Love Heart Cheat Codes
