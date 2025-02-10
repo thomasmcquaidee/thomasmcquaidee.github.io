@@ -22,3 +22,5 @@ I've been making an effort to listen to more albums as full, cohesive bodies of 
 - Hiatus Kaiyote - Love Heart Cheat Codes
 - JPEGMAFIA & Danny Brown - SCARING THE HOES
 - JPEGMAFIA - I LAY DOWN MY LIFE FOR YOU (DIRECTORS CUT)
+- Title Fight - Floral Green
+- Assimilate - Gallows Humour
