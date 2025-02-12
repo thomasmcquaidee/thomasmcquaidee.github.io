@@ -24,3 +24,5 @@ I've been making an effort to listen to more albums as full, cohesive bodies of 
 - JPEGMAFIA - I LAY DOWN MY LIFE FOR YOU (DIRECTORS CUT)
 - Title Fight - Floral Green
 - Assimilate - Gallows Humour
+- Cynefin - Shimli
+- Doechii - Alligator Bites Never Headl
