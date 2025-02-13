@@ -25,4 +25,4 @@ I've been making an effort to listen to more albums as full, cohesive bodies of 
 - Title Fight - Floral Green
 - Assimilate - Gallows Humour
 - Cynefin - Shimli
-- Doechii - Alligator Bites Never Headl
+- Doechii - Alligator Bites Never Heal
