@@ -26,3 +26,4 @@ I've been making an effort to listen to more albums as full, cohesive bodies of 
 - Assimilate - Gallows Humour
 - Cynefin - Shimli
 - Doechii - Alligator Bites Never Heal
+- Hum - You'd Prefer an Astronaut
