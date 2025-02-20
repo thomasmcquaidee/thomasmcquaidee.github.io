@@ -8,6 +8,13 @@ tags:
 
 Yesterday I had the opportunity to record a choir of 35 people, made up of the London College of Music's Musical Theatre students!
 
+<div>
+    <img src="../assets/posts/choir-recording/teaching.jpg" class="rounded" alt="Stood in front of a mixing console, a video feed of a pianist above.">
+</div>
+
+<p class="text-muted"><i>Probably explaining why Pro Tools is better than Ableton for a project like this...</i></p>
+
+
 Going into this project, I knew I wanted to do something a bit different, so I gave myself the task of tracking everything with the plan to mix it in Dolby Atmos. I know, I make my life more difficult than it needs to be, but it's also fairly rare to have a 35 piece choir to hand, so I was keen to make the most of it. It also gave me a great chance to dive into immersive recording techniques, 99% of my previous Atmos work has been re-mixing content into the format, using the original stereo masters as reference, so being able to go into a project with immersive at the forefront of my mind was really interesting.
 
 I settled on a decca tree and ambisonics microphone to capture the core sound of the room, with spot mics to capture more direct sound. The decca tree was made up of 3 Telefunken M60's covering the LCR channels, and two Earthworks QTC1's handling rears, mounted on a Schoeps OCT Surround set. This was super easy to work with, and sounds great!
@@ -59,3 +66,6 @@ I learnt a lot from this session, it was super fun to spend some proper time on 
 </div>
 
 <p class="text-muted"><i>I'm not a fan of NS10s, but the acoustics in this studio really aren't great, so I found myself using them more than the soffit-mounted ATCs in the room, as I trusted their stereo image more than the mains.</i></p>
+
+
+*Update - 20-Feb-25 - Added in teaching photo + snarky Ableton comment*
