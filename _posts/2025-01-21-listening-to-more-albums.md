@@ -27,3 +27,5 @@ I've been making an effort to listen to more albums as full, cohesive bodies of 
 - Cynefin - Shimli
 - Doechii - Alligator Bites Never Heal
 - Hum - You'd Prefer an Astronaut
+- MF DOOM - MM..FOOD 
+- Mala - Mala in Cuba
