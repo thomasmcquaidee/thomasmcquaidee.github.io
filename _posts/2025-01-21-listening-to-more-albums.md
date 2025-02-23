@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 18 albums, averaging 2.25 albums/week (last updated 2025-02-21)
+Current Total = 19 albums, averaging 2.375 albums/week (last updated 2025-02-23)
 
 
 **January**
@@ -33,3 +33,4 @@ Current Total = 18 albums, averaging 2.25 albums/week (last updated 2025-02-21)
 - MF DOOM - MM..FOOD 
 - Fred Again.. & Brian Eno - Secret Life
 - Mala - Mala in Cuba
+- Djrum - Forgetting - EP
