@@ -13,7 +13,7 @@ Current Total = 19 albums, averaging 2.375 albums/week (last updated 2025-02-23)
 
 
 **January**
-- Radiohead - In Rainbows (yes, I know it's a crime that I'd not listened to this album in full yet)
+- Radiohead - In Rainbows
 - Big Thief - Dragon New Warm Mountain I Believe In You
 - Maruja - Knocknarea EP
 - Mac Miller - Balloonerism
@@ -34,3 +34,5 @@ Current Total = 19 albums, averaging 2.375 albums/week (last updated 2025-02-23)
 - Fred Again.. & Brian Eno - Secret Life
 - Mala - Mala in Cuba
 - Djrum - Forgetting - EP
+- Bon Iver - For Emma, Forever Ago
+- Bon Iver - Bon Iver, Bon Iver
