@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 19 albums, averaging 2.4 albums/week (last updated 2025-02-24)
+Current Total = 28 albums, averaging 3.11 albums/week (last updated 2025-02-27)
 
 
 **January**
@@ -37,3 +37,9 @@ Current Total = 19 albums, averaging 2.4 albums/week (last updated 2025-02-24)
 - Bon Iver - For Emma, Forever Ago
 - Bon Iver - Bon Iver, Bon Iver
 - Xenon Toothbrush - Syringe of Toothpaste
+- Bon Iver - 22, A Million
+- Bon Iver - i,i 
+- AURORA - All My Demons Greeting Me As a Friend
+- Ryoji Ikeda - dataplex
+- Noname - Room 25
+- Khruangbin - A LA SALA
