@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 28 albums, averaging 3.11 albums/week (last updated 2025-02-27)
+Current Total = 29 albums, averaging 3.22 albums/week (last updated 2025-02-28)
 
 
 **January**
@@ -43,3 +43,4 @@ Current Total = 28 albums, averaging 3.11 albums/week (last updated 2025-02-27)
 - Ryoji Ikeda - dataplex
 - Noname - Room 25
 - Khruangbin - A LA SALA
+- Title Fight - Hyperview
