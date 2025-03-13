@@ -47,15 +47,15 @@ Current Total = 42 albums, averaging 3.8 albums/week (last updated 2025-03-13)
 - James Blake & Lil Yachty - Bad Cameo
 
 **March**
-Andrew Bird - I Want to See Pulaski at Night
-Andrew Prahlow - Outer Wilds (Original Soundtrack)
-Matt Berry - Witchazel
-Matt Berry - Heard Noises
-Denzel Curry & Kenny Beats - UNLOCKED
-Drawn From Bees - The May King and His Paper Crown
-Drawn From Bees - The Sky Is Falling 
-Andrew Prahlow - Outer Wilds: Echoes of the Eye (Original Game Soundtrack)
-Lady Gaga - MAYHEM
-Galen Tipton - Nymph Tones
-Kendrick Lamar - To Pimp a Butterfly
-MF DOOM - Operation: Doomsday
+- Andrew Bird - I Want to See Pulaski at Night
+- Andrew Prahlow - Outer Wilds (Original Soundtrack)
+- Matt Berry - Witchazel
+- Matt Berry - Heard Noises
+- Denzel Curry & Kenny Beats - UNLOCKED
+- Drawn From Bees - The May King and His Paper Crown
+- Drawn From Bees - The Sky Is Falling 
+- Andrew Prahlow - Outer Wilds: Echoes of the Eye (Original Game Soundtrack)
+- Lady Gaga - MAYHEM
+- Galen Tipton - Nymph Tones
+- Kendrick Lamar - To Pimp a Butterfly
+- MF DOOM - Operation: Doomsday
