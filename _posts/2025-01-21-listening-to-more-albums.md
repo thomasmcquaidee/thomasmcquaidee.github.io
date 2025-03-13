@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 38 albums, averaging 3.8 albums/week (last updated 2025-03-05)
+Current Total = 42 albums, averaging 3.8 albums/week (last updated 2025-03-13)
 
 
 **January**
@@ -55,3 +55,7 @@ Denzel Curry & Kenny Beats - UNLOCKED
 Drawn From Bees - The May King and His Paper Crown
 Drawn From Bees - The Sky Is Falling 
 Andrew Prahlow - Outer Wilds: Echoes of the Eye (Original Game Soundtrack)
+Lady Gaga - MAYHEM
+Galen Tipton - Nymph Tones
+Kendrick Lamar - To Pimp a Butterfly
+MF DOOM - Operation: Doomsday
