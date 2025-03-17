@@ -62,3 +62,4 @@ Current Total = 44 albums, averaging 3.8 albums/week (last updated 2025-03-13)
 - cleopatrick - FAKE MOON
 - Fontaines D.C. - Romance
 - KNOWER - Knower Forever
+- Burial - Untrue
