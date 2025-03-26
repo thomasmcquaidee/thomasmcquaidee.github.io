@@ -18,7 +18,8 @@ I'm currently working at the University of West London as our in-house recording
 
 I previously worked as an assistant engineer at an immersive audio mixing studio based at Tileyard. I've also worked for clients such as Marshall Amplification, TALENTBANQ, Black Deer Festival and TYX Studios, among many others.
 
-Other than music, I'm interested in photography, technology and coffee!
+I'm also currently [tracking every album I listen to for an entire year!](https://tmcq.io/blog/listening-to-more-albums)
 
 You can find me online at:
 {% include external_links.html %}
+
