@@ -67,4 +67,8 @@ Current Total = 51 albums, averaging 3.9 albums/week (last updated 2025-03-26)
 - Nix Northwest & Xaxi - LEISURE SICKNESS
 - IDLES - Joy as an Act of Resistance
 - Boards of Canada - Music has the Right to Children
-- Röyksopp - Melody AM
+- * Röyksopp - Melody AM
+- * One Step Closer - All You Embrace
+- * Rizzle Kicks - Competition is for Losers
+- * Ghetts - On Purpose, With Purpose
+- * P Money, Whiney - Streets, Love & Other Stuff
