@@ -67,3 +67,4 @@ Current Total = 50 albums, averaging 3.8 albums/week (last updated 2025-03-26)
 - Nix Northwest & Xaxi - LEISURE SICKNESS
 - IDLES - Joy as an Act of Resistance
 - Boards of Canada - Music has the Right to Children
+- Röyksopp - Melody AM
