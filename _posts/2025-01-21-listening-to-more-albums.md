@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 51 albums, averaging 3.9 albums/week (last updated 2025-03-26)
+Current Total = 55 albums, averaging 4.2 albums/week (last updated 2025-03-28)
 
 
 **January**
@@ -67,8 +67,10 @@ Current Total = 51 albums, averaging 3.9 albums/week (last updated 2025-03-26)
 - Nix Northwest & Xaxi - LEISURE SICKNESS
 - IDLES - Joy as an Act of Resistance
 - Boards of Canada - Music has the Right to Children
-- * Röyksopp - Melody AM
-- * One Step Closer - All You Embrace
-- * Rizzle Kicks - Competition is for Losers
+- Röyksopp - Melody AM
+- One Step Closer - All You Embrace
+- Rizzle Kicks - Competition is for Losers
+- Nia Archives - Silence is Loud
+- Alex G - Trick
 - * Ghetts - On Purpose, With Purpose
 - * P Money, Whiney - Streets, Love & Other Stuff
