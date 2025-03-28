@@ -72,4 +72,3 @@ Current Total = 56 albums, averaging 4.3 albums/week (last updated 2025-03-28)
 - Rizzle Kicks - Competition is for Losers
 - Nia Archives - Silence is Loud
 - Alex G - Trick
-- P Money, Whiney - Streets, Love & Other Stuff
