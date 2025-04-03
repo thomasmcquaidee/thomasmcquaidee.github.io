@@ -76,4 +76,4 @@ Current Total = 57 albums, averaging 4 albums/week (last updated 250402)
 **April**
 - Skrillex - F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3
 - Greentea Peng - TELL DEM IT'S SUNNY
-- ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ - ʅ() ʅ()ʃ ꐑ(ఠీੂ೧ູȯ)vȯ)࿃ूੂ✧⃛✧⃛) ():::() ̴̤̚ - EP (yes this is a real EP, it's a side project of kieran hebden / four tet called 'wingdings')
+- ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ - ʅ() ʅ()ʃ ꐑ(ఠీੂ೧ູȯ)vȯ)࿃ूੂ✧⃛✧⃛) ():::() ̴̤̚ - EP *(yes this is a real EP, it's a side project of kieran hebden / four tet called 'wingdings')*
