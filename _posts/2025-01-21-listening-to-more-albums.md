@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 57 albums, averaging 4 albums/week (last updated 250402)
+Current Total = 62 albums, averaging 4.1 albums/week (last updated 2025-04-07)
 
 
 **January**
@@ -78,3 +78,10 @@ Current Total = 57 albums, averaging 4 albums/week (last updated 250402)
 - Greentea Peng - TELL DEM IT'S SUNNY
 - ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ - ʅ() ʅ()ʃ ꐑ(ఠీੂ೧ູȯ)vȯ)࿃ूੂ✧⃛✧⃛) ():::() ̴̤̚ - EP *(yes this is a real EP, it's a side project of kieran hebden / four tet called 'wingdings')*
 - Four Tet - Three +
+- Crows - Beware Believers
+- Crows - Reason Enough
+- Justice - Hyperdrama
+- Billy Strings - Highway Prayers
+- Donny Hathaway - Donny Hathaway
+- Bon Iver - SABLE, fABLE
+- HONEYMOAN - Pink Hell
