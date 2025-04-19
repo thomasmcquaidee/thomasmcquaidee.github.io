@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 66 albums, averaging 4.1 albums/week (last updated 2025-04-15)
+Current Total = 67 albums, averaging 4.2 albums/week (last updated 2025-04-19)
 
 
 **January**
@@ -85,3 +85,4 @@ Current Total = 66 albums, averaging 4.1 albums/week (last updated 2025-04-15)
 - Donny Hathaway - Donny Hathaway
 - Bon Iver - SABLE, fABLE
 - HONEYMOAN - Pink Hell
+- Gustavo Santaolalla - The Last of Us (Video Game Soundtrack)
