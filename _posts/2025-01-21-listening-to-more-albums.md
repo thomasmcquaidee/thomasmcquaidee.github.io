@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 67 albums, averaging 4.2 albums/week (last updated 2025-04-19)
+Current Total = 72 albums, averaging 4 albums/week (last updated 2025-04-28)
 
 
 **January**
@@ -86,3 +86,13 @@ Current Total = 67 albums, averaging 4.2 albums/week (last updated 2025-04-19)
 - Bon Iver - SABLE, fABLE
 - HONEYMOAN - Pink Hell
 - Gustavo Santaolalla - The Last of Us (Video Game Soundtrack)
+- Cain Abrams - Ola Came To Stay - EP
+- Cain Abrams - When You Said Forever, Did You Mean It?
+- AUNDREY NUNA - TRENCH
+- Mujeres - Trans Continuo - EP
+- Black Country, New Road - Forever Howlong
+
+*Want to listen to*
+- Gustavo Santaolalla, Mac Quayle - The Last of Us Part II (Original Soundtrack)
+- Overmono - Good Lies
+- Billie Marten - Dog Eared
