@@ -9,10 +9,10 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 72 albums, averaging 4 albums/week (last updated 2025-04-28)
+Current Total = 75 albums, averaging 4.16 albums/week (last updated 2025-04-30)
 
 
-**January**
+**January** 7
 - Radiohead - In Rainbows
 - Big Thief - Dragon New Warm Mountain I Believe In You
 - Maruja - Knocknarea EP
@@ -21,7 +21,7 @@ Current Total = 72 albums, averaging 4 albums/week (last updated 2025-04-28)
 - Jerod S. Rivera - Virgo
 - aerie - the juniper archives
 
-**February**
+**February** 23
 - Hiatus Kaiyote - Love Heart Cheat Codes
 - JPEGMAFIA & Danny Brown - SCARING THE HOES
 - JPEGMAFIA - I LAY DOWN MY LIFE FOR YOU (DIRECTORS CUT)
@@ -46,7 +46,7 @@ Current Total = 72 albums, averaging 4 albums/week (last updated 2025-04-28)
 - Title Fight - Hyperview
 - James Blake & Lil Yachty - Bad Cameo
 
-**March**
+**March** 25
 - Andrew Bird - I Want to See Pulaski at Night
 - Andrew Prahlow - Outer Wilds (Original Soundtrack)
 - Matt Berry - Witchazel
@@ -73,7 +73,7 @@ Current Total = 72 albums, averaging 4 albums/week (last updated 2025-04-28)
 - Nia Archives - Silence is Loud
 - Alex G - Trick
 
-**April**
+**April** 20
 - Skrillex - F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3
 - Greentea Peng - TELL DEM IT'S SUNNY
 - ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ - ʅ() ʅ()ʃ ꐑ(ఠీੂ೧ູȯ)vȯ)࿃ूੂ✧⃛✧⃛) ():::() ̴̤̚ - EP *(yes this is a real EP, it's a side project of kieran hebden / four tet called 'wingdings')*
@@ -89,8 +89,11 @@ Current Total = 72 albums, averaging 4 albums/week (last updated 2025-04-28)
 - Cain Abrams - Ola Came To Stay - EP
 - Cain Abrams - When You Said Forever, Did You Mean It?
 - AUNDREY NUNA - TRENCH
-- Mujeres - Trans Continuo - EP
+- Mujeres - Trance Continuo - EP
 - Black Country, New Road - Forever Howlong
+- Loathe - I Let It in and It Took Everything
+- Viagra Boys - viagr aboys
+- Viagra Boys - Cave World
 
 *Want to listen to*
 - Gustavo Santaolalla, Mac Quayle - The Last of Us Part II (Original Soundtrack)
