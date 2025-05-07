@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 79 albums, averaging 4.4 albums/week (last updated 2025-05-03)
+Current Total = 82 albums, averaging 4.3 albums/week (last updated 2025-05-07)
 
 
 **January** 7
@@ -73,7 +73,7 @@ Current Total = 79 albums, averaging 4.4 albums/week (last updated 2025-05-03)
 - Nia Archives - Silence is Loud
 - Alex G - Trick
 
-**April** 24
+**April** 21
 - Skrillex - F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3
 - Greentea Peng - TELL DEM IT'S SUNNY
 - ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ - ʅ() ʅ()ʃ ꐑ(ఠీੂ೧ູȯ)vȯ)࿃ूੂ✧⃛✧⃛) ():::() ̴̤̚ - EP *(yes this is a real EP, it's a side project of kieran hebden / four tet called 'wingdings')*
@@ -95,11 +95,15 @@ Current Total = 79 albums, averaging 4.4 albums/week (last updated 2025-05-03)
 - Viagra Boys - viagr aboys
 - Viagra Boys - Cave World
 - Djrum - Under Tangled Silence
+
+**May** 6
 - Bop - Clear Your Mind
 - MJ Lenderman - Manning Fireworks
 - NewDad - Safe - EP
+- Flume, JPEGMAFIA - We Live In A Society
+- Overmono - Good Lies
+- NewDad - MADRA
 
 *Want to listen to*
 - Gustavo Santaolalla, Mac Quayle - The Last of Us Part II (Original Soundtrack)
-- Overmono - Good Lies
 - Billie Marten - Dog Eared
