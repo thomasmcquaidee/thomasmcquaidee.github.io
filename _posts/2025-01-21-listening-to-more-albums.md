@@ -103,6 +103,7 @@ Current Total = 82 albums, averaging 4.3 albums/week (last updated 2025-05-07)
 - Flume, JPEGMAFIA - We Live In A Society
 - Overmono - Good Lies
 - NewDad - MADRA
+- Ready The Prince - Book of Ōji
 
 *Want to listen to*
 - Gustavo Santaolalla, Mac Quayle - The Last of Us Part II (Original Soundtrack)
