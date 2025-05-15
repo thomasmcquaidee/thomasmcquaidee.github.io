@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 88 albums, averaging 4.6 albums/week (last updated 2025-05-13)
+Current Total = 91 albums, averaging 4.5 albums/week (last updated 2025-05-15)
 
 
 **January** 7
@@ -96,7 +96,7 @@ Current Total = 88 albums, averaging 4.6 albums/week (last updated 2025-05-13)
 - Viagra Boys - Cave World
 - Djrum - Under Tangled Silence
 
-**May** 12
+**May** 15
 - Bop - Clear Your Mind
 - MJ Lenderman - Manning Fireworks
 - NewDad - Safe - EP
@@ -109,6 +109,9 @@ Current Total = 88 albums, averaging 4.6 albums/week (last updated 2025-05-13)
 - Superheaven - Superheaven
 - Sweet Trip - velocity : design : comfort.
 - PinkPantheress - Fancy That
+- Ivan Theva - Gardens
+- Ivan Theva - Waiting Here For You - EP
+- Sleep Token - Even In Arcadia 
 
 *Want to listen to*
 - Gustavo Santaolalla, Mac Quayle - The Last of Us Part II (Original Soundtrack)
