@@ -115,6 +115,7 @@ Current Total = 94 albums, averaging 4.4 albums/week (last updated 2025-05-19)
 - Miso Extra - Earcandy
 - Saintseneca - Pillar of Na
 - Air Circus - The Air Circus
+- Drawn From Bees - Cautionary Tales for the Lionhearted - EP
 
 *Want to listen to*
 - Gustavo Santaolalla, Mac Quayle - The Last of Us Part II (Original Soundtrack)
