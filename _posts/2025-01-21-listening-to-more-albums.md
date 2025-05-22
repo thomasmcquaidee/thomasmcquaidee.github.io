@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 94 albums, averaging 4.4 albums/week (last updated 2025-05-19)
+Current Total = 95 albums, averaging 4.5 albums/week (last updated 2025-05-22)
 
 
 **January** 7
@@ -96,7 +96,7 @@ Current Total = 94 albums, averaging 4.4 albums/week (last updated 2025-05-19)
 - Viagra Boys - Cave World
 - Djrum - Under Tangled Silence
 
-**May** 18
+**May** 19
 - Bop - Clear Your Mind
 - MJ Lenderman - Manning Fireworks
 - NewDad - Safe - EP
@@ -116,6 +116,7 @@ Current Total = 94 albums, averaging 4.4 albums/week (last updated 2025-05-19)
 - Saintseneca - Pillar of Na
 - Air Circus - The Air Circus
 - Drawn From Bees - Cautionary Tales for the Lionhearted - EP
+- Bop - Hypnotics - EP
 
 *Want to listen to*
 - Gustavo Santaolalla, Mac Quayle - The Last of Us Part II (Original Soundtrack)
