@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 122 albums, averaging 4.7 albums/week (last updated 2025-06-27)
+Current Total = 123 albums, averaging 4.5 albums/week (last updated 2025-06-30)
 
 
 **January** 7
@@ -122,7 +122,7 @@ Current Total = 122 albums, averaging 4.7 albums/week (last updated 2025-06-27)
 - Saint Boy - Home - EP
 - Massive Attack - Mezzanine
 
-**June** 22
+**June** 23
 - Shoi Miyazawa, Yuka Kitamura, Yoshimi Kudo & Tai Tomisawa - Elden Ring (Original Game Sountrack) - Disk 1
 - Shoi Miyazawa, Yuka Kitamura, Yoshimi Kudo & Tai Tomisawa - Elden Ring (Original Game Sountrack) - Disk 2
 - ARKELL LDN - Live Forever - EP
@@ -145,6 +145,7 @@ Current Total = 122 albums, averaging 4.7 albums/week (last updated 2025-06-27)
 - Goat Girl - Below The Waste (Orchestrated) - EP
 - Goat Girl - Below The Waste
 - Jeff Buckley - Grace
+- GDJYB - SQUARECLE - EP
 
 *Want to listen to*
 - Gustavo Santaolalla, Mac Quayle - The Last of Us Part II (Original Soundtrack)
