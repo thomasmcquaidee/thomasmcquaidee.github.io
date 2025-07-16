@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 127 albums, averaging 4.7 albums/week (last updated 2025-07-03)
+Current Total = 133 albums, averaging 4.6 albums/week (last updated 2025-07-16)
 
 
 **January** 7
@@ -147,12 +147,18 @@ Current Total = 127 albums, averaging 4.7 albums/week (last updated 2025-07-03)
 - Jeff Buckley - Grace
 - GDJYB - SQUARECLE - EP
 
-**July** 5
+**July** 11
 - The Prodigy - Music for the Jilted Generation
 - The Prodigy - The Fat of the Land
 - FKJ - Ylang Ylang - EP
 - A Tribe Called Quest - The Low End Theory
 - Thundercat - Drunk
+- Soulstance - Life Size
+- Rival Consoles - Landscape from Memory
+- Anish Kumar - In Sri Lanka
+- Anish Kumar - A Mixtape by Anish Kumar
+- Olympia Vitalis - People Watching
+- Buena Vista Social Club - Buena Vista Social Club
 
 
 
