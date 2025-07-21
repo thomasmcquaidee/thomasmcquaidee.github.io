@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 135 albums, averaging 4.6 albums/week (last updated 2025-07-17)
+Current Total = 139 albums, averaging 4.6 albums/week (last updated 250721)
 
 
 **January** 7
@@ -147,7 +147,7 @@ Current Total = 135 albums, averaging 4.6 albums/week (last updated 2025-07-17)
 - Jeff Buckley - Grace
 - GDJYB - SQUARECLE - EP
 
-**July** 13
+**July** 17
 - The Prodigy - Music for the Jilted Generation
 - The Prodigy - The Fat of the Land
 - FKJ - Ylang Ylang - EP
@@ -161,16 +161,14 @@ Current Total = 135 albums, averaging 4.6 albums/week (last updated 2025-07-17)
 - Buena Vista Social Club - Buena Vista Social Club
 - Duke Ellington & John Coltrane - Duke Ellington & John Coltrane
 - Rudi Creswick - Different Forms
-
-
-
+- Jianbo - Everything For The Family
+- Billie Marten - Dog Eared
+- Alex G - Headlights
+- Skybreak - HALF BLOOD
 
 *Want to listen to*
 - Gustavo Santaolalla, Mac Quayle - The Last of Us Part II (Original Soundtrack)
-- Billie Marten - Dog Eared
-- Jianbo - Everything For The Family
 - Deftones - private music
 - Maruja - Pain To Power
-- Alex G - Headlights
 - Ethel Cain - Willoughby Tucker, I'll Always Love You
 - Big Thief - Double Infinity
