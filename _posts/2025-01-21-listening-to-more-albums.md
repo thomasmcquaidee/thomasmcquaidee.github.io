@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 139 albums, averaging 4.6 albums/week (last updated 250721)
+Current Total = 141 albums, averaging 4.7 albums/week (last updated 2025-07-22)
 
 
 **January** 7
@@ -147,7 +147,7 @@ Current Total = 139 albums, averaging 4.6 albums/week (last updated 250721)
 - Jeff Buckley - Grace
 - GDJYB - SQUARECLE - EP
 
-**July** 17
+**July** 19
 - The Prodigy - Music for the Jilted Generation
 - The Prodigy - The Fat of the Land
 - FKJ - Ylang Ylang - EP
@@ -165,6 +165,8 @@ Current Total = 139 albums, averaging 4.6 albums/week (last updated 250721)
 - Billie Marten - Dog Eared
 - Alex G - Headlights
 - Skybreak - HALF BLOOD
+- Tyler, The Creator - DON'T TAP THE GLASS
+- Chihei Hatakeyama - Void XVIII
 
 *Want to listen to*
 - Gustavo Santaolalla, Mac Quayle - The Last of Us Part II (Original Soundtrack)
