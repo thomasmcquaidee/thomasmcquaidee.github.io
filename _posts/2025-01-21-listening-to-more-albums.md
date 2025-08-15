@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 157 albums, averaging 4.75 albums/week (last updated 2025-08-11)
+Current Total = 159 albums, averaging 4.8 albums/week (last updated 2025-08-15)
 
 
 **January** 7
@@ -175,7 +175,7 @@ Current Total = 157 albums, averaging 4.75 albums/week (last updated 2025-08-11)
 - Freddie Gibbs & The Alchemist - Alfredo 2
 - Dijon - Absolutely
 
-**August** - 9
+**August** - 11
 - Radiohead - OK Computer
 - Atoms for Peace - Amok
 - Susumu Yokota - sakura
@@ -185,6 +185,8 @@ Current Total = 157 albums, averaging 4.75 albums/week (last updated 2025-08-11)
 - Ethel Cain - Willoughby Tucker, I'll Always Love You
 - Slim Sinna - Come Alive - EP
 - Slim Sinna - Dave's Revenge - EP
+- Anamanaguchi - Anyway
+- Santana - Caravanserai
 
 
 *Want to listen to*
