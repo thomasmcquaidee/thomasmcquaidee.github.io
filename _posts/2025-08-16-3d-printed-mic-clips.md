@@ -20,6 +20,14 @@ A width of 4mm for the clip has been working well too. In theory I could reduce 
 
 I've been slicing the circles open about 15% in from the interior side, for the microphone to clip in, and also adding a 2mm fillet off the edge, which helps guide the microphone into the clip.
 
+<div>
+    <img src="../assets/posts/micclip/fusionmicclip.jpg" class="rounded" alt="A screenshot from Autodesk Fusion showing the microphone clip">
+</div>
+<p class="text-muted"><i>I've yet to decide how I feel about Fusion. On one hand, it's pretty straightforward to get up and running, but on the other it feels like I'm missing a lot of 'best practices', which leaves me unsure on how to get the design out of my head and into the software successfully.</i></p>
+
 I've got loads of ideas of where to take this. I'd love to be able to automate this, so in theory I can take measurements from any two microphones and generate an STL file to make custom clips, but for now I need to get better at CAD and 3D printing in general!
 
-*will update with a photo soon...*
+<div>
+    <img src="../assets/posts/micclip/mic clip.jpg" class="rounded" alt="A 3D printed microphone clip, holding a Shure SM57 and an sE7">
+</div>
+<p class="text-muted"><i>The clip is definitely derivative of other existing designs online, but I do have many ideas on how I'm going to remix this idea into something new! </i></p>
