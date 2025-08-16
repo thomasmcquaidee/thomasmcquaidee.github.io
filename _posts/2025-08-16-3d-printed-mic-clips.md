@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3D Printing Mic Clips
-date: 2025-08-16 19:35:00 +0000
+date: 2025-08-15 19:35:00 +0000
 tags: 
   - music
   - technology
