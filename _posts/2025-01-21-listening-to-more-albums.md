@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 163 albums, averaging 4.9 albums/week (last updated 2025-08-16)
+Current Total = 169 albums, averaging 5 albums/week (last updated 2025-08-21)
 
 
 **January** 7
@@ -175,7 +175,7 @@ Current Total = 163 albums, averaging 4.9 albums/week (last updated 2025-08-16)
 - Freddie Gibbs & The Alchemist - Alfredo 2
 - Dijon - Absolutely
 
-**August** - 15
+**August** - 21
 - Radiohead - OK Computer
 - Atoms for Peace - Amok
 - Susumu Yokota - sakura
@@ -191,9 +191,16 @@ Current Total = 163 albums, averaging 4.9 albums/week (last updated 2025-08-16)
 - Four Tet - New Energy
 - Floating Points - Vacuum Boogie - EP
 - Dijon - Babr
+- Cosmo Sheldrake - The Much Much How How and I
+- Cosmo Sheldrake - Wake up Calls
+- deadmau5 - Error5 - EP
+- May Erlewine, Woody Goss - Anyway
+- Anamanaguchi - [USA]
+- ghostbusters vhs - Messages From Home - EP
 
 *Want to listen to*
 - Gustavo Santaolalla, Mac Quayle - The Last of Us Part II (Original Soundtrack)
 - Deftones - private music
 - Maruja - Pain To Power
 - Big Thief - Double Infinity
+- Florence + the Machine - Everybody Scream

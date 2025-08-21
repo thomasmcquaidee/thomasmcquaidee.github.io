@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3D Printing Mic Clips
-date: 2025-08-15 19:35:00 +0000
+date: 2025-08-17 19:35:00 +0000
 tags: 
   - music
   - technology
@@ -31,3 +31,7 @@ I've got loads of ideas of where to take this. I'd love to be able to automate t
     <img src="../assets/posts/micclip/mic clip.jpg" class="rounded" alt="A 3D printed microphone clip, holding a Shure SM57 and an sE7">
 </div>
 <p class="text-muted"><i>The clip is definitely derivative of other existing designs online, but I do have many ideas on how I'm going to remix this idea into something new! </i></p>
+
+
+*Update 2025-08-17*
+I've also realised that the orientation of the print is super important, especially when working with PLA plastic. I'm trying to make a single mic clip that'll hold two SDC mics in an XY configuration, and whilst my model does work, because of how one of the model was printed, one of the clip bits has split along the layer line.
