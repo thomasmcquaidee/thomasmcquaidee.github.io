@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 175 albums, averaging 5 albums/week (last updated 2025-08-25)
+Current Total = 179 albums, averaging 5.1 albums/week (last updated 2025-08-31)
 
 
 **January** 7
@@ -175,7 +175,7 @@ Current Total = 175 albums, averaging 5 albums/week (last updated 2025-08-25)
 - Freddie Gibbs & The Alchemist - Alfredo 2
 - Dijon - Absolutely
 
-**August** - 27
+**August** - 31
 - Radiohead - OK Computer
 - Atoms for Peace - Amok
 - Susumu Yokota - sakura
@@ -203,6 +203,10 @@ Current Total = 175 albums, averaging 5 albums/week (last updated 2025-08-25)
 - KAYTRANADA - AIN'T NO DAMN WAY!
 - ghostbusters vhs - Resistance
 - Slikback - Attrition
+- Earl Sweatshirt - Live Laugh Love
+- Christopher Larkin - Hollow Knight (Original Soundtrack)
+- Blood Orange - Essex Honey
+- Skepta & Fred again.. - Skepta .. Fred - EP
 
 *Want to listen to*
 - Gustavo Santaolalla, Mac Quayle - The Last of Us Part II (Original Soundtrack)
