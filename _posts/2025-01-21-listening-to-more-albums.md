@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 194
-Current Total = 196 albums, averaging 5 albums/week (last updated 2025-09-25)
+Current Total = 198 albums, averaging 5 albums/week (last updated 2025-09-26)
 
 
 **January** 7
@@ -208,7 +208,7 @@ Current Total = 196 albums, averaging 5 albums/week (last updated 2025-09-25)
 - Blood Orange - Essex Honey
 - Skepta & Fred again.. - Skepta .. Fred - EP
 
-**September** - 18
+**September** - 19
 - Hyphen - This Might Be It - EP
 - Ichiko Aoba - Luminescent Creatures
 - Hudson Freeman - Is a Folk Artist
@@ -226,6 +226,8 @@ Current Total = 196 albums, averaging 5 albums/week (last updated 2025-09-25)
 - Fishmans - Kuuchuu Camp
 - The Amazons - The Amazons (Deluxe)
 - Failure - Fantastic Planet
+- The Favors - The Dream
+- Geese - Getting Killed
 
 *Want to listen to*
 - Gustavo Santaolalla, Mac Quayle - The Last of Us Part II (Original Soundtrack)
