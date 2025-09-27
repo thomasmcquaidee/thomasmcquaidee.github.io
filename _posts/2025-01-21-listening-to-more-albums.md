@@ -9,10 +9,10 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 194
-Current Total = 198 albums, averaging 5 albums/week (last updated 2025-09-26)
+Current Total = 201 albums, averaging 5.15 albums/week (last updated 2025-09-27)
 
 
-**January** 7
+**January** 
 - Radiohead - In Rainbows
 - Big Thief - Dragon New Warm Mountain I Believe In You
 - Maruja - Knocknarea EP
@@ -21,7 +21,7 @@ Current Total = 198 albums, averaging 5 albums/week (last updated 2025-09-26)
 - Jerod S. Rivera - Virgo
 - aerie - the juniper archives
 
-**February** 23
+**February** 
 - Hiatus Kaiyote - Love Heart Cheat Codes
 - JPEGMAFIA & Danny Brown - SCARING THE HOES
 - JPEGMAFIA - I LAY DOWN MY LIFE FOR YOU (DIRECTORS CUT)
@@ -46,7 +46,7 @@ Current Total = 198 albums, averaging 5 albums/week (last updated 2025-09-26)
 - Title Fight - Hyperview
 - James Blake & Lil Yachty - Bad Cameo
 
-**March** 25
+**March** 
 - Andrew Bird - I Want to See Pulaski at Night
 - Andrew Prahlow - Outer Wilds (Original Soundtrack)
 - Matt Berry - Witchazel
@@ -73,7 +73,7 @@ Current Total = 198 albums, averaging 5 albums/week (last updated 2025-09-26)
 - Nia Archives - Silence is Loud
 - Alex G - Trick
 
-**April** 21
+**April** 
 - Skrillex - F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3
 - Greentea Peng - TELL DEM IT'S SUNNY
 - ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ - ʅ() ʅ()ʃ ꐑ(ఠీੂ೧ູȯ)vȯ)࿃ूੂ✧⃛✧⃛) ():::() ̴̤̚ - EP *(yes this is a real EP, it's a side project of kieran hebden / four tet called 'wingdings')*
@@ -96,7 +96,7 @@ Current Total = 198 albums, averaging 5 albums/week (last updated 2025-09-26)
 - Viagra Boys - Cave World
 - Djrum - Under Tangled Silence
 
-**May** 24
+**May** 
 - Bop - Clear Your Mind
 - MJ Lenderman - Manning Fireworks
 - NewDad - Safe - EP
@@ -122,7 +122,7 @@ Current Total = 198 albums, averaging 5 albums/week (last updated 2025-09-26)
 - Saint Boy - Home - EP
 - Massive Attack - Mezzanine
 
-**June** 23
+**June** 
 - Shoi Miyazawa, Yuka Kitamura, Yoshimi Kudo & Tai Tomisawa - Elden Ring (Original Game Sountrack) - Disk 1
 - Shoi Miyazawa, Yuka Kitamura, Yoshimi Kudo & Tai Tomisawa - Elden Ring (Original Game Sountrack) - Disk 2
 - ARKELL LDN - Live Forever - EP
@@ -147,7 +147,7 @@ Current Total = 198 albums, averaging 5 albums/week (last updated 2025-09-26)
 - Jeff Buckley - Grace
 - GDJYB - SQUARECLE - EP
 
-**July** 26
+**July** 
 - The Prodigy - Music for the Jilted Generation
 - The Prodigy - The Fat of the Land
 - FKJ - Ylang Ylang - EP
@@ -175,7 +175,7 @@ Current Total = 198 albums, averaging 5 albums/week (last updated 2025-09-26)
 - Freddie Gibbs & The Alchemist - Alfredo 2
 - Dijon - Absolutely
 
-**August** - 31
+**August** 
 - Radiohead - OK Computer
 - Atoms for Peace - Amok
 - Susumu Yokota - sakura
@@ -208,7 +208,7 @@ Current Total = 198 albums, averaging 5 albums/week (last updated 2025-09-26)
 - Blood Orange - Essex Honey
 - Skepta & Fred again.. - Skepta .. Fred - EP
 
-**September** - 19
+**September** 
 - Hyphen - This Might Be It - EP
 - Ichiko Aoba - Luminescent Creatures
 - Hudson Freeman - Is a Folk Artist
@@ -228,6 +228,8 @@ Current Total = 198 albums, averaging 5 albums/week (last updated 2025-09-26)
 - Failure - Fantastic Planet
 - The Favors - The Dream
 - Geese - Getting Killed
+- Mura Masa - Mura Masa
+- Olivia Dean - The Art of Loving
 
 *Want to listen to*
 - Gustavo Santaolalla, Mac Quayle - The Last of Us Part II (Original Soundtrack)
