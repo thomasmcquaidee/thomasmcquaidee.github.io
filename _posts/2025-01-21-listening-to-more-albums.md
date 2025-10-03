@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 194
-Current Total = 204 albums, averaging 5.1 albums/week (last updated 2025-10-01)
+Current Total = 206 albums, averaging 5.1 albums/week (last updated 2025-10-03)
 
 
 **January** 
@@ -235,7 +235,15 @@ Current Total = 204 albums, averaging 5.1 albums/week (last updated 2025-10-01)
 **October**
 - Frederick Foxtrott - die probelee will he - EP
 - Remi Wolf - I'm Allergic To Dogs! - EP
+- Iglooghost - Bronze Claw Iso - EP
+- Have A Nice Life - Deathconsciousness
+
 
 *Want to listen to*
 - Gustavo Santaolalla, Mac Quayle - The Last of Us Part II (Original Soundtrack)
 - Florence + the Machine - Everybody Scream
+- Frou Frou - Details
+- Jim Legxacy - black british music (2025)
+- David Tao - STUPID POP SONGS
+- Die Spitz - Something To Consume
+
