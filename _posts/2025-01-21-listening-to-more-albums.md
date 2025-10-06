@@ -239,7 +239,7 @@ Current Total = 208 albums, averaging 5.2 albums/week (last updated 2025-10-05)
 - Have A Nice Life - Deathconsciousness
 - Die Spitz - Something To Consume
 - Totorro - Sofa So Good
-
+- Jim Legxacy - black british music (2025)
 
 *Want to listen to*
 - Gustavo Santaolalla, Mac Quayle - The Last of Us Part II (Original Soundtrack)
