@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 208 albums, averaging 5.2 albums/week (last updated 2025-10-05)
+Current Total = 217 albums, averaging 5.1 albums/week (last updated 2025-10-15)
 
 
 **January** 
@@ -240,12 +240,17 @@ Current Total = 208 albums, averaging 5.2 albums/week (last updated 2025-10-05)
 - Die Spitz - Something To Consume
 - Totorro - Sofa So Good
 - Jim Legxacy - black british music (2025)
+- Noel Gallagher's High Flying Birds - Council Skies
+- wears me out - splenetic
+- Sloppy Jane - Madison
+- Björk - Vespertine
+- Todd Kessler - About Memory
+- Panda Bear - Sinister Grift
+- Natalia Lafourcade - De Todas las Flores
+- Mariah the Scientist - HEARTS SOLD SEPARATELY
+
 
 *Want to listen to*
 - Gustavo Santaolalla, Mac Quayle - The Last of Us Part II (Original Soundtrack)
 - Florence + the Machine - Everybody Scream
 - Frou Frou - Details
-- Jim Legxacy - black british music (2025)
-- David Tao - STUPID POP SONGS
-- Die Spitz - Something To Consume
-
