@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 217 albums, averaging 5.1 albums/week (last updated 2025-10-15)
+Current Total = 224 albums, averaging 5.2 albums/week (last updated 2025-10-23)
 
 
 **January** 
@@ -248,6 +248,13 @@ Current Total = 217 albums, averaging 5.1 albums/week (last updated 2025-10-15)
 - Panda Bear - Sinister Grift
 - Natalia Lafourcade - De Todas las Flores
 - Mariah the Scientist - HEARTS SOLD SEPARATELY
+- Tame Impala - Deadbeat
+- Christopher Larkin - Hollow Knight: Silksong (Original Soundtrack)
+- NewDad - Altar
+- Dealers of God - Dealer's Choice
+- Chris Brain - New Light
+- Celestaphone & Dealers of God - Cult Subterranea
+- Provoker - Mausoleum
 
 
 *Want to listen to*
