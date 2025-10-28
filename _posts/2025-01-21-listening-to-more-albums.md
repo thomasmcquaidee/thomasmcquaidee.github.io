@@ -9,7 +9,7 @@ tags:
 
 I've been making an effort to listen to more albums as full, cohesive bodies of work. It seems silly, especially considering my line of work, but I sometimes find it quite difficult to just sit a listen to a full album without getting distracted or bored. I love the idea of an album being a work of art that should be enjoyed as an album, rather than a collection of songs, so to change that I've been making more time to sit and listen, and I'll be updating this post with every album I listen to in 2025!
 
-Current Total = 224 albums, averaging 5.2 albums/week (last updated 2025-10-23)
+Current Total = 233 albums, averaging 5.3 albums/week (last updated 2025-10-28)
 
 
 **January** 
@@ -255,6 +255,15 @@ Current Total = 224 albums, averaging 5.2 albums/week (last updated 2025-10-23)
 - Chris Brain - New Light
 - Celestaphone & Dealers of God - Cult Subterranea
 - Provoker - Mausoleum
+- Lizzy McAlpine - Older (and Wiser)
+- The Wannadies - Be a Girl
+- Your Personal Tranquillizer - I Never Asked For This
+- Dave - The Boy Who Played the Harp
+- Janoya - La Source
+- monte booker - noise ( meaning )
+- Vraell - guitar meditations - EP
+- Moses Boyd - Dark Matter
+- Vraell - Once a Blue Hour
 
 
 *Want to listen to*
